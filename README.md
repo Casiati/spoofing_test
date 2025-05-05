@@ -12,7 +12,7 @@ Este projeto é uma interface web que permite realizar testes **seguros e contro
 
 A aplicação é composta pelos seguintes componentes:
 
-- **Frontend** (este projeto): Interface React (ou outra lib) para envio de requisições.
+- **Frontend** (este projeto): Interface React para envio de requisições.
 - **API Gateway**: Roteia as requisições HTTP para as funções Lambda.
 - **AWS Lambda**: Lida com a lógica de spoofing controlado, incluindo composição e envio de e-mails.
 - **Amazon SES** (opcional): Serviço de envio de e-mails da AWS, utilizado para envio seguro.
@@ -32,7 +32,7 @@ A aplicação é composta pelos seguintes componentes:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Frontend**: React / Vite / Tailwind CSS (ajuste conforme seu stack)
+- **Frontend**: React
 - **Backend (Serverless)**: AWS Lambda + API Gateway
 - **Banco de Dados**: DynamoDB
 - **Serviço de E-mail (opcional)**: Amazon SES
