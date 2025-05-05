@@ -45,5 +45,5 @@ A aplicação é composta pelos seguintes componentes:
 # Instale dependências
 npm install
 
-# Execute localmente (ex: usando vite ou outro bundler)
-npm run dev
+# Execute localmente
+npm start
