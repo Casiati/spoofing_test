@@ -134,8 +134,8 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('assets/backgroundImg.jpg');
-  background-position: center;
+  background-image: url('./assets/bghome.webp');
+  background-position: top+center;
   background-size: cover;
   background-repeat: no-repeat;
   filter: blur(20%); 
